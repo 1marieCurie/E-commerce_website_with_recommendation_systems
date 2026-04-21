@@ -32,20 +32,19 @@ This hybrid architecture aims to better match products to users by combining:
 
 ### Home Page
 
-![Me & Me Home Page](./image(119).png)
+<img src="./image(119).png" width="60%">
 
 ### Product Details Page
 
-![Product Details Page](./photo_github1.png)
+<img src="./photo_github1.png" width="60%">
 
 ### Customer Segmentation Visualization
 
-![Customer Segmentation 3D](./phot_github3.png)
+<img src="./phot_github3.png" width="60%">
 
 ### Repository Snapshot
 
-![Repository Structure](./phot_github2.png)
-
+<img src="./phot_github2.png" width="60%">
 ---
 
 ## Key Features
